@@ -17,7 +17,9 @@ https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png
 
 Ниже пример кода из нашего приложения:
 
+```css
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
+```
